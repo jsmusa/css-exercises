@@ -1,0 +1,24 @@
+.podd {
+    background-color: rgb(227,157,148,0.5);
+    color: black;
+    font-family: "Dejavu sans", Verdana, sans-serif;
+    text-align: center;
+}
+
+.podd.size {
+        font-size: 24px;
+}
+
+#d2 {
+      background-color: hsl(217,90%,59%);
+      font-size: 36px;
+      color: rgb(242,246,252);   
+}
+
+#d4{
+    background-color: hsl(131,69%,80%);
+    font-weight: bold;
+    font-size: 24px;
+    text-align: right;
+    color: rgb(242,246,252);
+}
